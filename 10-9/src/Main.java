@@ -94,15 +94,15 @@ public class Main {
 //            System.out.println("Ture osvol");
 //        }
 
-//        math funksiy
-
-//        1metod sprt kvadrat ildiz
-        System.out.println(Math.sqrt(144));
-
-//        2metod darajaga kotaradi pow
-        System.out.println(Math.pow(12,2));
-
-//        3metod syntax
-        
+////        math funksiy
+//
+////        1metod sprt kvadrat ildiz
+//        System.out.println(Math.sqrt(144));
+//
+////        2metod darajaga kotaradi pow
+//        System.out.println(Math.pow(12,2));
+//
+////        3metod syntax
+//
     }
 }

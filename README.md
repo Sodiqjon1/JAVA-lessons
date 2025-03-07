@@ -1,3 +1,3 @@
 # JAVA-lessons
 
-### this project is my practice in java
+### This project is my practice in java
